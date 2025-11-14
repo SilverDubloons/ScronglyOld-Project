@@ -1,0 +1,18 @@
+To turn cheats on, open the menu and go to settings, then press J and Q down at the same time. They both need to be triggered as being pushed down on the same frame. This may take several tries.
+
+When cheats are on the following work
+
+The bauble button will add 1 of the bauble associated with the integer in the inputfield above the button. See BaubleScript for bauble ints.
+The nonstandard card button will add 1 of the nonstandard card associated with the integer in the inputfield above the button. See NonStandardCardScript for card ints.
+
+Holding 2, 3, 4, 5, 6, 7, 8, 9, 0, J, Q, K, or A down on the keyboard and clicking on a card will change the card to that rank. This does not change the cards value.
+Holding H, D, C, S, or R down on the keyboard and clicking on a card will change the card to that suit
+
+Pressing Z will draw 7 cards
+Pressing 1 will add one chip
+Pressing Backspace will remove one chip
+Pressing V will add 1000 chips
+Pressing X will purchase the high card bauble 5001 times
+Pressing B will purchase the straight flush bauble 999999999 times
+Pressing N will unlock all decks
+Pressing M will make current run assume you've played all high tier hands

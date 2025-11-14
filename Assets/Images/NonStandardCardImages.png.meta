@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: b6f7169cb165d4845bac323285fd7938
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NonStandardCardImages_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95004041caedb4fa1d7bcaaa2268c7
+      internalID: -903644970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c38c30da43864d9e0f5418ed7f68b
+      internalID: -2102159273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b54df4957dff540b1cd25dbae90b48
+      internalID: -652189707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc490b029148964282502c8013ef840
+      internalID: 182541362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1282499b0ebdf44abd46cbc6d43eb08
+      internalID: -1753777434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82abbc5346c4ace4eac2e0c02681c53e
+      internalID: 505315528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179e6d08f03dcc44989121933eea81b
+      internalID: 1444050064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10bc5e193e31544eb60103f6c7c119a
+      internalID: 1261606767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77aedfbf5020c24a8427935299c0bb0
+      internalID: -1500105242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 415
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b34fe8f07a4da4c9a73e632f47e584
+      internalID: -549009653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31710e86fd35c23459fcdb89bc62ec6a
+      internalID: -1802383822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbc6f76a16906b428e762a639550c80
+      internalID: 1229834836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be3da712cdea040b9624e8144dd6ff
+      internalID: -1595384263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2abb764e858854099c6ae39e8ccf03
+      internalID: -1089008465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce78d819c2d6c0d479efdb92428e3201
+      internalID: 1685072895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4fe8d995625947a29389c310ff84f
+      internalID: -946711128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d89d7c1042a642a0898374efa08b6
+      internalID: -203952030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ae915e955602b4b8f4c8c743114486
+      internalID: 424333064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314104913d040de4d9cf4274992e731e
+      internalID: -228163540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 369
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4603e7e0e4beae46af34252344b8fd2
+      internalID: -1923813010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebdf696b87453f4daf985b6465e063e
+      internalID: 1432475060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59295ca7d470214fb94da36dedc18c2
+      internalID: -1697091898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc29983819958e4aafba370ec8ddd70
+      internalID: 129607828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c332186a2afd046b27ea6f908582d7
+      internalID: -1435342230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fccd7b882cda478e2a80744386930
+      internalID: -866011744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2822aa1cf1bbb4e908859bf73e1aa1
+      internalID: 980913476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd182bcfb17dd749b9e882831808821
+      internalID: 2123744621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f736831d3bea4c92b770254ceaddf
+      internalID: -1992577874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e9dfd23e6ca34e8e524b76a263cd5
+      internalID: -164198694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 323
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a0b0ae4baed0489670efc18c20737
+      internalID: -117887095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd62887167497947867c460c073ca39
+      internalID: 1802833899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91317834de67d134ab68c30f5a0dded0
+      internalID: 413995951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381d3410cc00644aa0de976097d85c9
+      internalID: 911342835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fc055bea230d4b9c15e7db3d27d17
+      internalID: -283468793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f383263b69f2a04e9191500ada57b97
+      internalID: 540253116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0ca8387ef1c84687a99815aba72e3
+      internalID: 1801281168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b07509cfd20744bb26790b12c2c74
+      internalID: -767047962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_37
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a86f8c3ed583a4ca752e20a91530c1
+      internalID: -1033835811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_38
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edccca1d1af234c91c71ea078eca3d
+      internalID: -83670049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 277
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62142344a0b7214885f049b71fd0955
+      internalID: -893954855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49600994909555849baf53b892c5551a
+      internalID: 1589213945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e29854b43f0ba448da51aafdeda892
+      internalID: 814322612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23fb50ecb295741aa2cbd651b467ff
+      internalID: 1691103529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6548f0c3c840da943ac8bb96d08bc887
+      internalID: 829067256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_44
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54940d63f02afc743b50821fa577be43
+      internalID: -1120575845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9724ffcbc67d962499c8bb9f77d325e1
+      internalID: 1410039883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48444195fa09e8b499d3e9e51a5e74a3
+      internalID: -1331772113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9752708e25a24693cfe982ac47156
+      internalID: 1865269274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_48
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f5c80c11be6748b4ef4d25c35fe4a
+      internalID: 1644055506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 231
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6b56e8cc552a8428a56b1f236a5438
+      internalID: -190589620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1a6f4b5de66b418a7e7d3ec8eae73
+      internalID: 1147251545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc7e28b2c3daf489b68dcf314da7ec
+      internalID: 27928274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b0a27997692b40b5445951560bb25
+      internalID: 917191711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e208093b5b6e41b614733f66c459d
+      internalID: 1309080639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8037ba5fc348043468e84e1d8f4bf926
+      internalID: 516224802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1234ea9f98e87674d9c2c1cc39bc3763
+      internalID: -1939225050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334466ae8c5477744a72d2791f19f15d
+      internalID: -562878086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353da9f6a6d41ef4db84d32b113d59a5
+      internalID: 1150719269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000952769d933947af3b602629333df
+      internalID: -995971745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 185
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcddbd6ce58c17449b1f1b4f2e6fe9f
+      internalID: -880444538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d118af1a6c4748bbeadfa8400ee1f
+      internalID: -1268115880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f039a98e65cd342a4acbc3729ceefb
+      internalID: -1550880347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ce109434c1c747a731798f17e1e71
+      internalID: 269850335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33e85053c0ab384bae95c2a15c05cee
+      internalID: 1137276046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb4c57f142718c40a3dd148acd6fa39
+      internalID: -458481722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367528ee52cfe245a75bf5735aad672
+      internalID: 2092587255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_66
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6cd70d2076ffd4db68d7d8d2a15611
+      internalID: -624871521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffea03a7dc9e649bb93f5325c7cdde
+      internalID: 1624968942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_68
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15ff84f1b36c047a9cb1dfff969923
+      internalID: -1665351316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 139
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bdd1af0c11f934d92179445a3c8746
+      internalID: -271203315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3404540a654df542855e42ddd69ba04
+      internalID: 346667547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bedb094374ba944ab67d80ecc82d8fb
+      internalID: 1807740497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103b7ebb8182da49925d8fd4fbcdd89
+      internalID: 975417154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed728bde2f25644abe0745e6df4c2a
+      internalID: -22183034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501273463c6c2574698d85c5f573dc38
+      internalID: -1952719549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485b5bd0bad4e744aec3275afb32fa2
+      internalID: 550396269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d89c166b981faa428aca024c4e117e8
+      internalID: -1318038165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_77
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f820807c60baf6c4c9b8823882ab624d
+      internalID: 1053962449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_78
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a0eab60cc7d448a174788d2abd552
+      internalID: -2091216619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_79
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 93
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312e89a2f2480249a723cee1ffcd806
+      internalID: 145353464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58586ba500108004abae7259cf2c53ed
+      internalID: -393139593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_81
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44439960cc3174fa28bae9ff616c7d
+      internalID: -949199757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25bbcebd54f77419b811589c87b25a
+      internalID: 866015953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf85e3cef7c36544bc4951816edd559
+      internalID: 1477751127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe3c79aadf54cd4ca0b695340dc2b30
+      internalID: 715359246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_85
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9935295b81ad488b3d44e810ea263
+      internalID: 2104718404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dc7b902ffb3134eaff180d01994539
+      internalID: 250857721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_87
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339c477bfe48af4db66afff17d3c5c8
+      internalID: -1393043377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_88
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974b7b5d6d528148b610cf5aea7940a
+      internalID: 1700008328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_89
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689bce084c811cb42a6794e0124a2a01
+      internalID: -1990922623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5348aba4c44254ca422d5b00f8b6d2
+      internalID: 186089997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882077641d3bf5347ad4098869342d42
+      internalID: -120088244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_92
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb08cc2280fb4448ec73f27b1f4f9c
+      internalID: -1995534706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_93
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f6e543d73c094fbf8e2b08b5b33c7
+      internalID: -1787990958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_94
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e380c6226d1554897dc1a15b5d1e1c
+      internalID: -1591257380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4598bd35d00b6f4780a32ec5882be64
+      internalID: -345806710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_96
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3edaabab14d755478c7e869637605fd
+      internalID: 777450869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_97
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d58f0bfd412af429e7c2baaeb61525
+      internalID: 1310834514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_98
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63e525bc445abe45aafba180995cd60
+      internalID: 1900799684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NonStandardCardImages_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a01e15842b79e4eb05428fe032e977
+      internalID: -669374949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NonStandardCardImages_0: -903644970
+      NonStandardCardImages_1: -2102159273
+      NonStandardCardImages_10: -1802383822
+      NonStandardCardImages_11: 1229834836
+      NonStandardCardImages_12: -1595384263
+      NonStandardCardImages_13: -1089008465
+      NonStandardCardImages_14: 1685072895
+      NonStandardCardImages_15: -946711128
+      NonStandardCardImages_16: -203952030
+      NonStandardCardImages_17: 424333064
+      NonStandardCardImages_18: -228163540
+      NonStandardCardImages_19: -1923813010
+      NonStandardCardImages_2: -652189707
+      NonStandardCardImages_20: 1432475060
+      NonStandardCardImages_21: -1697091898
+      NonStandardCardImages_22: 129607828
+      NonStandardCardImages_23: -1435342230
+      NonStandardCardImages_24: -866011744
+      NonStandardCardImages_25: 980913476
+      NonStandardCardImages_26: 2123744621
+      NonStandardCardImages_27: -1992577874
+      NonStandardCardImages_28: -164198694
+      NonStandardCardImages_29: -117887095
+      NonStandardCardImages_3: 182541362
+      NonStandardCardImages_30: 1802833899
+      NonStandardCardImages_31: 413995951
+      NonStandardCardImages_32: 911342835
+      NonStandardCardImages_33: -283468793
+      NonStandardCardImages_34: 540253116
+      NonStandardCardImages_35: 1801281168
+      NonStandardCardImages_36: -767047962
+      NonStandardCardImages_37: -1033835811
+      NonStandardCardImages_38: -83670049
+      NonStandardCardImages_39: -893954855
+      NonStandardCardImages_4: -1753777434
+      NonStandardCardImages_40: 1589213945
+      NonStandardCardImages_41: 814322612
+      NonStandardCardImages_42: 1691103529
+      NonStandardCardImages_43: 829067256
+      NonStandardCardImages_44: -1120575845
+      NonStandardCardImages_45: 1410039883
+      NonStandardCardImages_46: -1331772113
+      NonStandardCardImages_47: 1865269274
+      NonStandardCardImages_48: 1644055506
+      NonStandardCardImages_49: -190589620
+      NonStandardCardImages_5: 505315528
+      NonStandardCardImages_50: 1147251545
+      NonStandardCardImages_51: 27928274
+      NonStandardCardImages_52: 917191711
+      NonStandardCardImages_53: 1309080639
+      NonStandardCardImages_54: 516224802
+      NonStandardCardImages_55: -1939225050
+      NonStandardCardImages_56: -562878086
+      NonStandardCardImages_57: 1150719269
+      NonStandardCardImages_58: -995971745
+      NonStandardCardImages_59: -880444538
+      NonStandardCardImages_6: 1444050064
+      NonStandardCardImages_60: -1268115880
+      NonStandardCardImages_61: -1550880347
+      NonStandardCardImages_62: 269850335
+      NonStandardCardImages_63: 1137276046
+      NonStandardCardImages_64: -458481722
+      NonStandardCardImages_65: 2092587255
+      NonStandardCardImages_66: -624871521
+      NonStandardCardImages_67: 1624968942
+      NonStandardCardImages_68: -1665351316
+      NonStandardCardImages_69: -271203315
+      NonStandardCardImages_7: 1261606767
+      NonStandardCardImages_70: 346667547
+      NonStandardCardImages_71: 1807740497
+      NonStandardCardImages_72: 975417154
+      NonStandardCardImages_73: -22183034
+      NonStandardCardImages_74: -1952719549
+      NonStandardCardImages_75: 550396269
+      NonStandardCardImages_76: -1318038165
+      NonStandardCardImages_77: 1053962449
+      NonStandardCardImages_78: -2091216619
+      NonStandardCardImages_79: 145353464
+      NonStandardCardImages_8: -1500105242
+      NonStandardCardImages_80: -393139593
+      NonStandardCardImages_81: -949199757
+      NonStandardCardImages_82: 866015953
+      NonStandardCardImages_83: 1477751127
+      NonStandardCardImages_84: 715359246
+      NonStandardCardImages_85: 2104718404
+      NonStandardCardImages_86: 250857721
+      NonStandardCardImages_87: -1393043377
+      NonStandardCardImages_88: 1700008328
+      NonStandardCardImages_89: -1990922623
+      NonStandardCardImages_9: -549009653
+      NonStandardCardImages_90: 186089997
+      NonStandardCardImages_91: -120088244
+      NonStandardCardImages_92: -1995534706
+      NonStandardCardImages_93: -1787990958
+      NonStandardCardImages_94: -1591257380
+      NonStandardCardImages_95: -345806710
+      NonStandardCardImages_96: 777450869
+      NonStandardCardImages_97: 1310834514
+      NonStandardCardImages_98: 1900799684
+      NonStandardCardImages_99: -669374949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
